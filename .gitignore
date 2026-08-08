@@ -1,6 +1,10 @@
 *
+!*/
 !.gitignore
-!.github
+!.nojekyll
+!CNAME
+!index.html
+!**/*.dll
+!**/*.json
+!**/*.md
 !.github/**
-!*.dll
-!*.md
