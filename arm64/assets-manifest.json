@@ -1,0 +1,13 @@
+{
+  "name": "sync-assets",
+  "version": 1,
+  "hashes": {
+    "news.dll": "000aa1d784f26863ae604dd6c4d0ddfbcc58250226a2eca79b1e9a6685bff435",
+    "releases.dll": "0c43e7dacc8b78d69be7fcbba4dcb3a7006ae32f46eb4266eea4e9306e5fa823",
+    "subscription.dll": "73d7af3581c8352d355c2fff22f5609735b41b5a972fd2bdb0cb57c41da6fe3e",
+    "update.dll": "b4039b1e659d6d97d13447708b561826cd3f3dcb74faf2d726c682c3ed6e7fd0",
+    "upgrade.dll": "a44d3513432cfce05663cf28b1c18c04cd33f69afc13ab0860d09299969af47c",
+    "checks/core.dll": "3f08630e7e281b09c284cf12ebd0c18bbb6da8350d99b9e55ddac12e8a98bb4e",
+    "core.dll": "3f08630e7e281b09c284cf12ebd0c18bbb6da8350d99b9e55ddac12e8a98bb4e"
+  }
+}

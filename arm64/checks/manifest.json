@@ -1,0 +1,10 @@
+{
+  "name": "checks",
+  "version": 1,
+  "files": {
+    "Core": "core.dll"
+  },
+  "hashes": {
+    "core.dll": "3f08630e7e281b09c284cf12ebd0c18bbb6da8350d99b9e55ddac12e8a98bb4e"
+  }
+}
