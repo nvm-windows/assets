@@ -6,5 +6,7 @@
 !index.html
 !**/*.dll
 !**/*.json
+!**/*.cose
+!nvm-jwks.cose
 !**/*.md
 !.github/**
