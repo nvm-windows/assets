@@ -2,14 +2,14 @@
   "name": "sync-assets",
   "version": 1,
   "hashes": {
-    "news.dll": "3605e626883fbc05200329e94d21e2302d58b07c0413d24e521afe40bdb70447",
-    "releases.dll": "b7fcadcf73168e1b0e16e03397a7e1473490406357cad646e24c7b03ff46ac76",
-    "subscription.dll": "a5b485fe01a6da2fa62196e7d3a8d8219d8f7df4d4d476750e028212c498d62d",
-    "update.dll": "c735ff01ca604f4145a54289178b9ba4861355bfcdc46a369fd18c8170ed3dee",
-    "upgrade.dll": "e803031a9cd32e1543dd43d05140abe084a5ef9b68ca24cd03a003815c3db373",
-    "checks/core.dll": "af0627fa3507872a393906737ccdd02314944e5f51f5d8268fc4d5279db03cd7",
-    "core.dll": "af0627fa3507872a393906737ccdd02314944e5f51f5d8268fc4d5279db03cd7",
-    "checks/manifest.json": "108c3a5e7334c9a81abdefbf2bdb8ad578b048468a84301c908ad93a4f9623b9",
-    "manifest.json": "108c3a5e7334c9a81abdefbf2bdb8ad578b048468a84301c908ad93a4f9623b9"
+    "news.dll": "e2227ee80da48de1001d26731c611455e982488adb53842721f7100166d0932c",
+    "releases.dll": "b1b14480d31e2060606b24c6857b1bad52cf12653596c9df1c74b035e2ec908c",
+    "subscription.dll": "0462759270c1bd34b5f6ea8ab91013e1c703cd610d5741b1017583c400cd8fb1",
+    "update.dll": "759b5d54162fa24aefb52a8c86db34810fa9e58fa689e2a4def96efdb3b3b8e9",
+    "upgrade.dll": "3c5e71bfc658077cf4a5b77ed49e7c394fa75b13a511d7ae693f73c145ba4f52",
+    "checks/core.dll": "c57c9b94b86f349c22faa5ac49dfefa803bf3bbf95348bdfa2acd1b5b75c875c",
+    "core.dll": "c57c9b94b86f349c22faa5ac49dfefa803bf3bbf95348bdfa2acd1b5b75c875c",
+    "checks/manifest.json": "3c4277cb619cfb8f897f32fe4c61bb48a711177187f7ebcb4b599b372c825cf0",
+    "manifest.json": "3c4277cb619cfb8f897f32fe4c61bb48a711177187f7ebcb4b599b372c825cf0"
   }
 }
